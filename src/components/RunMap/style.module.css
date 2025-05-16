@@ -27,7 +27,7 @@
 }
 
 .selected {
-  color: rgb(224, 237, 94);
+  color: rgb(226, 85, 217);
 }
 
 .runTitle {
@@ -37,7 +37,7 @@
   bottom: 0px;
   left: 120px;
   cursor: pointer;
-  color: rgb(224, 237, 94);
+  color: rgb(226, 85, 217);
 }
 
 .lights {
