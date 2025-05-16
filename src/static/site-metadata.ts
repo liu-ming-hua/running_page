@@ -15,22 +15,18 @@ const getBasePath = () => {
 };
 
 const data: ISiteMetadataResult = {
-  siteTitle: 'Running Page',
-  siteUrl: 'https://yihong.run',
-  logo: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTtc69JxHNcmN1ETpMUX4dozAgAN6iPjWalQ&usqp=CAU',
+  siteTitle: 'MoonTen\'s Running Page',
+  siteUrl: 'https://liu-ming-hua.github.io/',
+  logo: 'https://raw.githubusercontent.com/liu-ming-hua/liu-ming-hua.github.io/refs/heads/master/images/MoonTen_logo.png',
   description: 'Personal site and blog',
   navLinks: [
     {
-      name: 'Summary',
-      url: `${getBasePath()}/summary`,
-    },
-    {
       name: 'Blog',
-      url: 'https://github.com/yihong0618/gitblog',
+      url: 'https://blog.csdn.net/weixin_60760661?spm=1010.2135.3001.5343',
     },
     {
       name: 'About',
-      url: 'https://github.com/yihong0618/running_page/blob/master/README-CN.md',
+      url: 'https://liu-ming-hua.github.io/',
     },
   ],
 };
